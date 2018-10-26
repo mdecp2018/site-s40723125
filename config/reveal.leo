@@ -131,8 +131,10 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
+
+
 &lt;small&gt;
-s40723125(https://mdecp2018.github.io/site-s40723125/content/index.html)
+[s40723125](https://mdecp2018.github.io/site-s40723125/content/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -341,6 +343,8 @@ make.start()
 <t tx="leo.20181020094308.2">#作業影片
 #git log 應用https://youtu.be/43ofEAAXrzE
 #python(print)https://youtu.be/ajNi5uRJPEA
-#檔案上傳https://youtu.be/FY9quDGnPJM</t>
+#檔案上傳https://youtu.be/FY9quDGnPJM
+
+</t>
 </tnodes>
 </leo_file>
