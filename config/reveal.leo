@@ -160,7 +160,7 @@ vertical: body pane on the botton</t>
 [s40723125](https://mdecp2018.github.io/site-s40723125/content/index.html)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[s40723125blog](./../blog/index.html)
 
 
 </t>
