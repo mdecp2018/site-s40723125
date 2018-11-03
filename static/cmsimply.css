@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url("https://wallpaper-house.com/data/out/12/wallpaper2you_512047.jpg");
   padding: 20px;
 }
 confmenu
@@ -200,7 +200,8 @@ height: 70px;
 background-color: white;
 width: 195px;
 }
-body {
+body  {
+  background-image:url("https://wallpaper-house.com/data/out/12/wallpaper2you_512047.jpg");
   margin-bottom: 120px;
 }
 

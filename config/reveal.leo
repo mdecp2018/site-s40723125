@@ -28,7 +28,7 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181102125511.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20181102125545.1"><vh>mywork1</vh>
+<v t="leo.20181102125545.1" a="E"><vh>mywork1</vh>
 <v t="leo.20181102131213.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20181102125817.1"><vh>mywork2</vh>
@@ -51,6 +51,9 @@
 </v>
 <v t="leo.20181102130238.1"><vh>mywork8</vh>
 <v t="leo.20181102130741.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181103233509.1" a="E"><vh>mywork9</vh>
+<v t="leo.20181103233514.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -361,60 +364,101 @@ make.start()
 <t tx="leo.20181102125545.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102125817.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102125829.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102125832.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102130101.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102130142.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102130143.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102130238.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181102130530.1">python(print)
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ajNi5uRJPEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ajNi5uRJPEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130556.1">檔案上傳
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FY9quDGnPJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FY9quDGnPJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130615.1">改簡報
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vQsuAJxltCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vQsuAJxltCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130632.1">創建bitbucket or gitlab 帳號
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qxxLmc4bWc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qxxLmc4bWc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130644.1">建立簡單網站
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eTpCidXLl8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eTpCidXLl8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130707.1">改標題
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nhGo8ehQ6jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nhGo8ehQ6jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102130741.1">更新 flaskapp.py
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ExSlM04oBbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ExSlM04oBbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181102131213.1">#作業影片
 git log 應用
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/43ofEAAXrzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/43ofEAAXrzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181103233509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181103233514.1">改背景
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OCkKJw-YJ2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
