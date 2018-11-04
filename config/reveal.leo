@@ -165,6 +165,8 @@ vertical: body pane on the botton</t>
 
 [s40723125blog](./../blog/index.html)
 
+[春日部防衛隊](./../member/index.html)
+
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -459,6 +461,8 @@ git log 應用
 &lt;/section&gt;
 </t>
 <t tx="leo.20181103233514.1">改背景
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OCkKJw-YJ2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OCkKJw-YJ2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
